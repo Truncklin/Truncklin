@@ -4,8 +4,8 @@
 > [![codewars](https://www.codewars.com/users/Truncklin/badges/small)](https://www.codewars.com/users/Truncklin)
 
 > [!TIP]
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truncklin)](https://github.com/Truncklin/github-readme-stats)
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Truncklin)](https://github.com/Truncklin/github-readme-stats)
+>  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Truncklin)](https://github.com/Truncklin/github-readme-stats)
 
 
 
