@@ -1,6 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=3000&random=false&width=435&height=30&lines=while(true))](https://git.io/typing-svg)                             
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=0&random=false&width=435&height=40&lines=%7B)](https://git.io/typing-svg)         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C%26nbsp&lines=Learn();)](https://git.io/typing-svg)                                                                                                                                                    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C&lines=WriteCode();)](https://git.io/typing-svg)                     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C&lines=Repeat();)](https://git.io/typing-svg)                                                                                                                                                  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=0&random=false&width=435&height=40&lines=%7B)](https://git.io/typing-svg)
 > [!IMPORTANT]
-> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programer+Developer+Nikita+Alekseev)](https://git.io/typing-svg)
-> 
 > [![codewars](https://www.codewars.com/users/Truncklin/badges/small)](https://www.codewars.com/users/Truncklin)
 
 > [!TIP]
