@@ -1,9 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=3000&random=false&width=435&height=30&lines=while(true))](https://git.io/typing-svg)                             
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=0&random=false&width=435&height=40&lines=%7B)](https://git.io/typing-svg)         
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C%26nbsp&lines=Learn();)](https://git.io/typing-svg)                                                                                                                                                    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C&lines=WriteCode();)](https://git.io/typing-svg)                     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&random=false&width=435&height=40&separator=%3C&lines=Repeat();)](https://git.io/typing-svg)                                                                                                                                                  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=300&pause=250&multiline=true&random=false&width=450&height=250&separator=%3C&lines=while+(true)%3C%7B%3C.+Think();%3C.++Learn();%3C.+WriteCode();%3C.++Repeat();%3C%7D)](https://git.io/typing-svg)
+
 > [!IMPORTANT]
 > [![codewars](https://www.codewars.com/users/Truncklin/badges/small)](https://www.codewars.com/users/Truncklin)
 
